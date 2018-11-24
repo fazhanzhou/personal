@@ -46,6 +46,3 @@ sudo apt autoclean  #删除已经卸载的软件包备份
     
 sudo apt-get check #检查是否有损坏的依赖 
 --------------------- 
-
-原文：https://blog.csdn.net/u012481692/article/details/78742786 
-版权声明：本文为博主原创文章，转载请附上博文链接！
